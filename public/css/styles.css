@@ -318,7 +318,7 @@ font-size: 30px;
       }
       
       .parent{
-          height: 95rem;
+          height: 98rem;
       }
       .overlay{
         top: 43px;
@@ -332,4 +332,7 @@ font-size: 30px;
     .ml2{
         font-size: 1.9rem;
     }
+  }
+  .my h3{
+      margin-bottom: 100px;
   }
